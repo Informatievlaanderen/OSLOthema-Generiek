@@ -5,7 +5,7 @@
   "diagram": "OSLO-Generiek",
   "template": "generiek-voc.j2",
   "title": "Generiek",
-  "publication-state": "zonderStatus",
+  "publication-state": "https://data.vlaanderen.be/id/conceptscheme/ZonderStatus",
   "publication-date": "04-10-2018",
   "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
