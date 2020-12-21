@@ -1,0 +1,1 @@
+Het applicatieprofiel OSLO-Generiek brengt termen samen uit het [OSLO-Generiek vocabularium](https://data.vlaanderen.be/ns/generiek) maar ook uit diverse andere vocabularia waarin algemeen bruikbare termen voorkomen, termen waarnaar andere OSLO-vocabularia en -applicatieprofielen verwijzen

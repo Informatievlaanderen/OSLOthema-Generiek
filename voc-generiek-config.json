@@ -3,8 +3,8 @@
   "rapport" : "",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
-  "publicatiedatum": "TBD",
-  "type_toepassing": "TBD",
+  "publicatiedatum": "2017-03-31",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
   "beschrijving" : "",
   "specificatiedocument": [
@@ -17,9 +17,9 @@
   "charter": [],
   "verslagen": [],
   "presentaties": [],
-  "functioneel_toepassingsgebied": "",
-  "organisatorisch_werkingsgebied": "",
-  "datum_van_aanmelding": "TBD",
-  "erkenning_werkgroep_datastandaarden": "TBD",
-  "erkenning_stuurgroep": "TBD"
+  "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking tot mandaten",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "10 April 2018 (retroactief)",
+  "erkenning_werkgroep_datastandaarden": "29 Mei 2018",
+  "erkenning_stuurgroep": "03 Juli 2018"
 }
