@@ -1,6 +1,6 @@
 {
   "naam": "Applicatieprofiel Generiek basis",
-  "rapport" : "",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/generiek-basis/zonderstatus/2019-07-01/all-generiek-basis.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "2017-03-23",
