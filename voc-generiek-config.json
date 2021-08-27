@@ -1,12 +1,12 @@
 {
   "naam": "Vocabularium Generiek",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/generiek/zonderstatus/2019-07-01/all-generiek.jsonld",
-  "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
-  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/generiek/zonderstatus/2019-07-01/all-generiek.jsonld",
+  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
   "publicatiedatum": "2017-03-31",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium",
-  "beschrijving" : "",
+  "beschrijving": "",
   "specificatiedocument": [
     {
       "naam": "Vocabularium Generiek",
