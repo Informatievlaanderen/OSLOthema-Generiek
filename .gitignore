@@ -1,1 +1,3 @@
 *.ldb
+resources/*
+notes-mt.md
