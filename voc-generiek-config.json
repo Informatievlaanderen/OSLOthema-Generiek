@@ -1,6 +1,6 @@
 {
   "title": "Vocabularium Generiek",
-  "category": "Vocabularium",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
   "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "",
   "descriptionFileName": "",
